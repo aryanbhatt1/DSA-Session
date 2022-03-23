@@ -1,4 +1,4 @@
-# Double Hashing
+# Double Hashing_Session_2
 import math
 
 
